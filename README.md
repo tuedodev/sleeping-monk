@@ -6,6 +6,10 @@ Umberto Eco once wrote his opus The Name of the Rose because he felt like poison
 
 [CodePen Demo](https://codepen.io/tuedodev/pen/JjzjzeK)
 
+## Sources and inspirations
+
+This project was highly inspired by the article [Trigonometric functions in CSS](https://web.dev/articles/css-trig-functions) by _Bramus_. Thanks to _Keith J. Grant_ for his [article](https://keithjgrant.com/posts/2017/07/transitioning-gradients/) about transitioning gradient backgrounds in CSS. Roses to [SVG Repo](https://www.svgrepo.com) for SVG icons and vectors.
+
 ## Start Locally on your Web Browser
 
 This should open the index.html in the default web browser and the JavaScript will be loaded and executed.
