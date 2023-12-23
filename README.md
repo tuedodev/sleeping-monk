@@ -1,6 +1,6 @@
 # Sleeping Monk
 
-Umberto Eco once wrote his opus The Name of the Rose because he felt like poisoning a monk (in his postscript to The Name of the Rose), while we only want to disturb a meditating monk with an intrusive fly in this fun project.
+_Umberto Eco_ once wrote his opus [The Name of the Rose](https://en.wikipedia.org/wiki/The_Name_of_the_Rose) because he felt like poisoning a monk (in his _Postscript to The Name of the Rose_), while we only want to disturb a meditating monk with an intrusive fly in this fun project.
 
 ![Screenshot](./screenshot.jpg)
 
