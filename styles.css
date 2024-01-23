@@ -37,7 +37,7 @@ html {
 
     /* Variables for calculation */
     --calculation: atan2(calc(var(--pointer-x) - var(--my-x) - (var(--fly-width) / 2) + var(--eye-correction-without-unit)),
-            calc(var(--pointer-y) - var(--my-y) - (var(--fly-height) / 2) + 0) * -1);
+            calc(var(--pointer-y) - var(--my-y) - (var(--fly-height) / 2)) * -1);
     --fly-x: calc(var(--my-x) * 1px);
     --fly-y: calc(var(--my-y) * 1px);
     --eye-correction: clamp(1px, 1vw, 80px);
